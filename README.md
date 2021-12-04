@@ -11,4 +11,4 @@ in an autonomous way.
 
 Making use of the "PlantVIllage Dataset", most famous deep network has been implemented such as *VGG16*, *VGG19*, *ResNet* , *Inception* and the results has been compared and analized.
 
-In the end, through some optimization methods, we obtained impressive result both with Convulutional Neural network (**CNN**) and Residual network (**ResNet**)
+In the end, through some optimization methods, we obtained impressive result both with Convulutional Neural network (**CNN**) and Residual network (**ResNet**).
